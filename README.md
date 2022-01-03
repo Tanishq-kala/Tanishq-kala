@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Tanishq!                                                        
 ## This is the place where i open-source stuff.
 
-<img src="Untitled Design (4).png" alt="profile" width="200px>
+<img src="Untitled Design (4).png" alt="profile" width="200px">
 
 #### - I'm a Software Engineering student🚀 who is passionate about contributing to open-source projects. 
 #### - I'm currently seeking to obtain specialization in MERN stack.
