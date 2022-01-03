@@ -3,7 +3,7 @@
 #### - I'm a Software Engineering student🚀 who is passionate about contributing to open-source projects. 
 #### - I'm currently seeking to obtain specialization in MERN stack.
  
-### Want to Connect? My inbox is always open!
+### Connect with me:
 
 <a href="linkedin.com/in/tanishq-kala-a3806a1aa">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
