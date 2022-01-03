@@ -8,7 +8,7 @@
  
 ### Connect with me:
 
-<a href="linkedin.com/in/tanishq-kala/">
+<a href="https://www.linkedin.com/in/Tanishq-kala/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/Tanishqkala_">
