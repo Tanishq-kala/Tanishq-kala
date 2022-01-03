@@ -1,12 +1,9 @@
-# This is the place where I open-source stuff.
-
-### <img src="Untitled Design (4).png" alt="profile">
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Tanishq! 
 
 #### - I'm a Software Engineering student🚀 who is passionate about contributing to open-source projects. 
 #### - I'm currently seeking to obtain specialization in MERN stack.
  
-### Want to Connect?
-### My inbox is always open!
+### Want to Connect? My inbox is always open!
 
 <a href="linkedin.com/in/tanishq-kala-a3806a1aa">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
