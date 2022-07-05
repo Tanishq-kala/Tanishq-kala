@@ -1,5 +1,5 @@
 ## Hey👋🏻, I'm Tanishq!                                                        
-##### This is the place where i open-source stuff.
+#### This is the place where i open-source stuff.
 
 #### - I'm a Software Engineering student🚀 passionate about contributing to open-source projects. 
  
