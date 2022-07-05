@@ -1,8 +1,8 @@
 ## Hey👋🏻, I'm Tanishq!                                                        
-### This is the place where i open-source stuff.
 
 #### - I'm a Software Engineering student🚀 passionate about contributing to open-source projects. 
  
+### This is the place where i open-source stuff.
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/tanishq-kala-a3806a1aa/">
